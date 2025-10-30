@@ -1,4 +1,4 @@
-# "# Conception d'une scène Unity interactive à visée didactique" 
+# " Conception d'une scène Unity interactive à visée didactique " 
 
 ##  La création des objects , scripts , Materials ,
 
